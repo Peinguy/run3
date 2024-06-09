@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openfl": "^9.3.3",
+    "lime": "git://github.com/openfl/lime.git"
+  }
+}
